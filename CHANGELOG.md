@@ -1,3 +1,7 @@
+## 5.0.1
+
+* Make the package WASM compatible
+
 ## 5.0.0
 
 * Migrate to 3.29.0
